@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Fruits", "2.Fruits", "{FAD1ED9F-4A3B-4215-A123-E83BDCF51806}"
+	ProjectSection(SolutionItems) = preProject
+		fruits.html = fruits.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.WelcometoHTML", "1.WelcometoHTML", "{97908A71-416B-4F6F-9997-245F3EC9008B}"
+	ProjectSection(SolutionItems) = preProject
+		welcome.html = welcome.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. HTMLLists", "3. HTMLLists", "{5E9A61E5-0677-434C-B52D-653788929DA5}"
+	ProjectSection(SolutionItems) = preProject
+		3. HTML Lists.html = 3. HTML Lists.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.WikiPage", "4.WikiPage", "{CD0D40EB-D2F5-4A8D-BEFC-AD5FE30FADFD}"
+	ProjectSection(SolutionItems) = preProject
+		wiki-page.html = wiki-page.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.ColorBlocks", "5.ColorBlocks", "{16E4A614-351E-4227-BC44-0421B169EDE0}"
+	ProjectSection(SolutionItems) = preProject
+		5.ColorBlocks.html = 5.ColorBlocks.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C159BDCE-0A7E-4963-8A31-19F5C264CBE2}
+	EndGlobalSection
+EndGlobal
